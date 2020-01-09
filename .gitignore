@@ -23,4 +23,7 @@
 hs_err_pid*
 
 compare-directory-trees/target/
+
 eclipse-workspace/
+compare-directory-trees/.classpath
+compare-directory-trees/.project
